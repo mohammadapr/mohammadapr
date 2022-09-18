@@ -24,7 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
 </p>
 
-- 💬 Ask me about: PHP, laravel, javascript
+- 💬 Ask me about: PHP, laravel, Golang, javascript
 
 </br>
 
