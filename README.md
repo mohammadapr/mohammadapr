@@ -5,7 +5,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/mohammada.pr/" target="_blank">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg" />
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"  alt="instagram" width="48" height="48"/>
  </a>
 
 </p>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="csharp" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="dotnet" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
