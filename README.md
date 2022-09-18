@@ -5,7 +5,7 @@
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
  <a href="https://www.instagram.com/mohammada.pr/" target="_blank">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"  alt="instagram" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg"  alt="instagram" width="40" height="40"/>
  </a>
 
 </p>
