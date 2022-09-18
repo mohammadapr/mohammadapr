@@ -4,6 +4,9 @@
  <a href="www.linkedin.com/in/mohammadapr" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
  </a>
+ <a href="https://www.instagram.com/mohammada.pr/" target="_blank">
+  <img src="https://img.icons8.com/fluent/48/000000/instagram.png" />
+ </a>
 
 </p>
 
