@@ -29,7 +29,7 @@
 -->
 </p>
 
-- 💬 Ask me about: PHP, laravel, Golang, javascript
+- 💬 Ask me about: PHP, Laravel, javascript
 
 </br>
 
