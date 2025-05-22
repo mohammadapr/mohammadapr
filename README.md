@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammad Amin Pornamazeh 👋</h1>
+<h1 align="center">Hi there, I'm Amin Pornamazeh 👋</h1>
 
 <p align="center">
     <a href="www.linkedin.com/in/mohammadapr" target="_blank">
